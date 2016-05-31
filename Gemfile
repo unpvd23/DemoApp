@@ -20,3 +20,7 @@ end
 gem 'rails_12factor', group: :production
 gem 'pg', group: :production
 gem 'carrierwave'
+# gem for "fog-aws"
+# gem for "figaro"
+
+gem "mini_magick"
